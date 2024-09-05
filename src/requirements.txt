@@ -1,0 +1,8 @@
+einops
+diffimg
+pillow
+python-dotenv
+torch 
+torchvision 
+torchaudio
+transformers
